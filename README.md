@@ -9,3 +9,4 @@ My name is Gatare Libère, I am a passionate Software Engineer and Community Lea
 - 😄 Pronouns: He/Him   
 - ⚡ Fun fact: I do excel at Volleyball and Basketball   
 
+[](https://img.shields.io/twitter/follow/gatarelib?label=Follow&style=social)
