@@ -6,6 +6,6 @@ My name is Gatare Libère, I am a passionate Software Engineer and Community Lea
 - 🌱  I also Lead [GDG Bujumbura](https://gdg.community.dev/gdg-bujumbura/), a Tech Meetup in 🇧🇮  
 - 💬 Ask me about Web, JAMstack, Tooling and Developer Outreach   
 - 📫 How to reach me: [gatarelib@gmail.com](mailto:gatarelib@gmail.com)   
-- ⚡ Fun fact: I do excel at Volleyball and Basketball   
+- ⚡ Fun fact: I do excel at Volleyball
 
 [](https://img.shields.io/twitter/follow/gatarelib?label=Follow&style=social)
