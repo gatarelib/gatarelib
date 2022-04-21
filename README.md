@@ -7,4 +7,5 @@ My name is Gatare Libère, I am a passionate Software Engineer and Community Lea
 - 💬 Ask me about Web, Tooling and Developer Outreach   
 - 📫 How to reach me: [gatarelib@gmail.com](mailto:gatarelib@gmail.com)   
 - ⚡ Fun fact: I do excel at Volleyball
+- 📙 I write about interesting tech stuff in my free time. Checkout my [Medium](https://medium.com/@gatarelib)
 
