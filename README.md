@@ -5,7 +5,7 @@ My name is Gatare Libère, I am a passionate Software Engineer and Community Lea
 - 🌱  I also Lead [GDG Bujumbura](https://gdg.community.dev/gdg-bujumbura/), a Tech Meetup in 🇧🇮  
 - 💬 Ask me about Web, Tooling and Developer Communities    
 - ⚡ Fun fact: I do excel at Volleyball
-- 📙 I write about interesting tech stuff in my free time. Checkout my [Hashgnode](https://gatare.hashnode.dev)
+- 📙 I write about interesting tech stuff in my free time. Checkout my [Hashnode](https://gatare.hashnode.dev)
 
 <div align="center">
   <a href="https://github.com/gatarelib">
