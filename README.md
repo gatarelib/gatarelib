@@ -20,4 +20,3 @@ My name is Gatare Libère, I am a passionate Software Engineer and Community Lea
   <a href="mailto:leowamudev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
- ![Snake animation](https://github.com/gatarelib/gatarelib/blob/output/github-contribution-grid-snake.svg)
