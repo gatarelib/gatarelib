@@ -10,7 +10,6 @@ My name is Gatare Libère, I am a passionate Software Engineer and Community Lea
 <div align="center">
   <a href="https://github.com/gatarelib">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gatarelib&show_icons=true&theme=dark&include_all_commits=true&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatarelib&layout=compact&langs_count=8&theme=dark" />
 </div>
 
 ##
