@@ -1,7 +1,7 @@
 ### Heyo 👋   
 My name is Gatare Libère, I am a passionate Software Engineer and Community Lead.
 
-- 🔭 I’m currently working as a Project Manager at [Aclis](https://aclis.africa)
+- 🔭 I’m currently working as a Manager at BDO
 - 🌱  I also Lead [GDG Bujumbura](https://gdg.community.dev/gdg-bujumbura/), a Tech Meetup in 🇧🇮  
 - 💬 Ask me about Web, Tooling and Developer Communities    
 - ⚡ Fun fact: I do excel at Volleyball
